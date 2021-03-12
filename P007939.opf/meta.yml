@@ -5,11 +5,12 @@ source_metadata:
   title: གཉན་རིམས་གསོ་བ
   author: ''
   volumes:
-    fbaf9412a6c948cc9e810dbd98506f0b:
+    01d23c9b79c64d8a920a78909fffe6de:
       image_group_id: I1KG5283
-      title: ''
+      title: Volume 1 of gnyan rims gso ba
       volume_number: 1
       total_pages: 196
+      base_file: v001.txt
 ebook_metadata:
   title: གཉན་རིམས་གསོ་བ
   author: ''
